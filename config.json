@@ -1,0 +1,13 @@
+{
+  "street_id": 0,
+  "house": "",
+  "types": {
+    "6": "Графік обмеження",
+    "1": "Планове відключення",
+    "2": "Аварійне відключення"
+  },
+  "calendar_id": "primary",
+  "reminder_minutes": 30,
+  "attendees": [],
+  "send_updates": "none"
+}
